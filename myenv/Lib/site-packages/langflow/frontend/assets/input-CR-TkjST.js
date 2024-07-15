@@ -1,0 +1,1 @@
+import{r as s,j as o,aw as e}from"./index-e8QJh9aC.js";const p=s.forwardRef(({className:a,type:t,...r},n)=>o.jsx("input",{"data-testid":"",type:t,className:e("nopan nodelete nodrag noflow primary-input",a),ref:n,...r}));p.displayName="Input";export{p as I};

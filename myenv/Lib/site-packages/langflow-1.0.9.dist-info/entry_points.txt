@@ -1,0 +1,3 @@
+[console_scripts]
+langflow=langflow.__main__:main
+
